@@ -1,2 +1,2 @@
-# VaesenIta
-Compendio Italiano di vaesen gdr
+# VaesenCompendiumIta
+Traduzione italiana del compendio di Vaesen

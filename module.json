@@ -1,0 +1,74 @@
+{
+  "id": "VaesenIta",
+  "title": "Vaesen Compendio Ita",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "Balian",
+      "url": "https://github.com/domtorraco/"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "maximum": "10",
+    "verified": "10.291"
+  },
+  "styles": [
+    "css/styles.css"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "Vaesen",
+        "type": "system",
+        "manifest": "https://gitlab.com/herve.darritchon/foundryvtt-tor2e/-/raw/main/src/system.json",
+        "compatibility": {
+          "minimum": "3.0.6",
+          "verified": "3.0.6"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "doti",
+      "label": "Doti",
+      "path": "packs/doti.db",
+      "type": "Item",
+      "entity": "Item",
+      "system": "vaesen",
+      "package": "vaesen"
+    },
+    {
+      "name": "equipaggiamento",
+      "label": "Equipaggiamento",
+      "path": "packs/equipaggiamento.db",
+      "type": "Item",
+      "entity": "Item",
+      "system": "vaesen",
+      "package": "vaesen"
+    },
+    {
+      "name": "ferite-critiche",
+      "label": "Ferite Critiche",
+      "path": "packs/ferite-critiche.db",
+      "type": "Item",
+      "entity": "Item",
+      "system": "vaesen",
+      "package": "vaesen"
+    },
+    {
+      "name": "migliorie",
+      "label": "Migliorie",
+      "path": "packs/migliorie.db",
+      "type": "Item",
+      "entity": "Item",
+      "system": "vaesen",
+      "package": "vaesen"
+    },
+  ],
+  "url": "https://github.com/domtorraco/VaesenCompendiumIta/",
+  "manifest": "https://github.com/domtorraco/VaesenCompendiumIta/releases/latest/download/module.json",
+  "download": "https://github.com/domtorraco/VaesenCompendiumIta/releases/latest/download/module.zip",
+  "description": "Questo modulo aggiunge un compendio in Italiano per il GDR di Vaesen, grazie al contributo di Archer39"
+}
