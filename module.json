@@ -26,9 +26,8 @@
           "minimum": "3.0.6",
           "verified": "3.0.6"
         }
-      }
-    ]
-  },
+      }]
+     },
   "packs": [
     {
       "name": "doti",
