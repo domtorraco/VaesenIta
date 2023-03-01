@@ -64,7 +64,7 @@
       "entity": "Item",
       "system": "vaesen",
       "package": "vaesen"
-    },
+    }
   ],
   "url": "https://github.com/domtorraco/VaesenIta",
   "manifest": "https://github.com/domtorraco/VaesenIta/releases/latest/download/module.json",
