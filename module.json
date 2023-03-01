@@ -1,7 +1,7 @@
 {
   "id": "VaesenIta",
   "title": "Vaesen Compendio Ita",
-  "version": "0.1",
+  "version": "0.2",
   "authors": [
     {
       "name": "Balian",
@@ -21,7 +21,7 @@
       {
         "id": "Vaesen",
         "type": "system",
-        "manifest": "https://gitlab.com/herve.darritchon/foundryvtt-tor2e/-/raw/main/src/system.json",
+        "manifest": "https://github.com/fvtt-fria-ligan/vaesen-foundry-vtt/releases/latest/download/system.json",
         "compatibility": {
           "minimum": "3.0.6",
           "verified": "3.0.6"
@@ -67,8 +67,8 @@
       "package": "vaesen"
     },
   ],
-  "url": "https://github.com/domtorraco/VaesenCompendiumIta/",
-  "manifest": "https://github.com/domtorraco/VaesenCompendiumIta/releases/latest/download/module.json",
-  "download": "https://github.com/domtorraco/VaesenCompendiumIta/releases/latest/download/module.zip",
+  "url": "https://github.com/domtorraco/VaesenIta",
+  "manifest": "https://github.com/domtorraco/VaesenIta/releases/latest/download/module.json",
+  "download": "https://github.com/domtorraco/VaesenIta/releases/latest/download/module.zip",
   "description": "Questo modulo aggiunge un compendio in Italiano per il GDR di Vaesen, grazie al contributo di Archer39"
 }
